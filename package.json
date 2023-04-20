@@ -1,0 +1,11 @@
+{
+  "name": "aprestaurante-api",
+  "version": "1.0.0",
+  "description": "backend ap restaurante",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian rendon",
+  "license": "ISC"
+}
